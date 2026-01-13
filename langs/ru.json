@@ -1,13 +1,14 @@
 {
-  "components": {
-    "button": {
-      "name": "Кнока"
+    "components": {
+        "button": {
+            "name": "Кнока",
+            "label": "Типа ярлык"
+        }
+    },
+    "pages": {
+        "main": {
+            "title": "Типа заголовок",
+            "content": "Типа контент"
+        }
     }
-  },
-  "pages": {
-    "main": {
-      "title": "Типа заголовок",
-      "content": "Типа контент"
-    }
-  }
 }
