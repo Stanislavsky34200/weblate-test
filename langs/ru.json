@@ -1,0 +1,13 @@
+{
+  "components": {
+    "button": {
+      "name": "Кнока"
+    }
+  },
+  "pages": {
+    "main": {
+      "title": "Типа заголовок",
+      "content": "Типа контент"
+    }
+  }
+}
