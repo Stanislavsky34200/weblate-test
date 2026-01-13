@@ -1,1 +1,13 @@
-{}
+{
+    "components": {
+        "button": {
+            "name": "Button"
+        }
+    },
+    "pages": {
+        "main": {
+            "title": "Title",
+            "content": "Content"
+        }
+    }
+}
