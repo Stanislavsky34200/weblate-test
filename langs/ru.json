@@ -1,7 +1,6 @@
 {
     "components": {
         "button": {
-            "name": "Кнока",
             "label": "Типа ярлык"
         }
     },
