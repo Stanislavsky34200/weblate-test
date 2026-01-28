@@ -1,9 +1,4 @@
 {
-    "components": {
-        "button": {
-            "label": "Типа ярлык"
-        }
-    },
     "pages": {
         "main": {
             "content": "Типа контент"
