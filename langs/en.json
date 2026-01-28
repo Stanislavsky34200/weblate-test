@@ -1,7 +1,6 @@
 {
     "components": {
         "button": {
-            "name": "Button",
             "label": "Label"
         }
     },
