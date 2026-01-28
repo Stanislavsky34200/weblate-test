@@ -1,9 +1,4 @@
 {
-    "components": {
-        "button": {
-            "label": "Label"
-        }
-    },
     "pages": {
         "main": {
             "content": "Content"
